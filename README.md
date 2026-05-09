@@ -1,7 +1,7 @@
 # Transcriptomic Analysis of Tumor-Normal Gene Expression Profiles Using RNA-seq Data
 ## Overview
-This project presents a transcriptomic analysis workflow for studying tumor-normal gene expression differences using RNA-seq datasets obtained from the Gene Expression Omnibus (GEO) repository of the National Center for Biotechnology Information (NCBI).
-The project focuses on preprocessing transcriptomic count data, performing normalization and differential gene expression analysis, and identifying significantly dysregulated genes associated with disease progression. The workflow integrates computational biology, transcriptomics, and bioinformatics methodologies for exploratory cancer-related gene expression analysis.
+
+This project presents a transcriptomic analysis workflow for studying tumor-normal gene expression differences using RNA-seq datasets obtained from the Gene Expression Omnibus (GEO) repository of the National Center for Biotechnology Information (NCBI).The project focuses on preprocessing transcriptomic count data, performing normalization and differential gene expression analysis, and identifying significantly dysregulated genes associated with disease progression. The workflow integrates computational biology, transcriptomics, and bioinformatics methodologies for exploratory cancer-related gene expression analysis.
 The study demonstrates a reproducible RNA-seq analysis pipeline using DESeq2-based workflows implemented in Python for transcriptomic profiling and biomarker-oriented investigation.
 ---
 ## Research Objectives
@@ -103,3 +103,4 @@ Exploratory Transcriptomic Analysis
 Biological Interpretation
 ```
 ### Working Website: 
+https://somshirsha.github.io/Transcriptomic-Analysis-of-Tumor-Normal-Gene-Expression-Profiles-Using-RNA-seq-Data/
